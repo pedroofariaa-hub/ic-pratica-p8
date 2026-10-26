@@ -1,17 +1,17 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome:*Pedro Faria*  
+- **Número:*22606559*  
+- **Turma:*Turno 2*  
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+(Entrei no VS Code e alterei o que o professor pediu, criei um repositório e dei clone do repositório original, instalei o git lfs e adicionei uma imagem.)
 
 ---
-
+testye
 ## Observações (opcional)
 
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
+(Tive difuldades no primeiro exercício.)
